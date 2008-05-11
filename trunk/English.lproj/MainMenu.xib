@@ -1174,7 +1174,7 @@
 												<object class="NSTextFieldCell" key="NSCell" id="481173707">
 													<int key="NSCellFlags">-1804468671</int>
 													<int key="NSCellFlags2">272630784</int>
-													<string key="NSContents">colloQ</string>
+													<string key="NSContents"/>
 													<reference key="NSSupport" ref="457928698"/>
 													<reference key="NSControlView" ref="341888349"/>
 													<bool key="NSDrawsBackground">YES</bool>
@@ -1220,7 +1220,7 @@
 												<object class="NSTextFieldCell" key="NSCell" id="448721367">
 													<int key="NSCellFlags">-1804468671</int>
 													<int key="NSCellFlags2">272630784</int>
-													<string key="NSContents">colloq</string>
+													<string key="NSContents"/>
 													<reference key="NSSupport" ref="457928698"/>
 													<reference key="NSControlView" ref="233227300"/>
 													<bool key="NSDrawsBackground">YES</bool>
@@ -1253,7 +1253,7 @@
 												<object class="NSTextFieldCell" key="NSCell" id="453552050">
 													<int key="NSCellFlags">-1804468671</int>
 													<int key="NSCellFlags2">272630784</int>
-													<string key="NSContents">1.1</string>
+													<string key="NSContents"/>
 													<reference key="NSSupport" ref="457928698"/>
 													<reference key="NSControlView" ref="143353428"/>
 													<bool key="NSDrawsBackground">YES</bool>
@@ -1286,7 +1286,7 @@
 												<object class="NSTextFieldCell" key="NSCell" id="490232004">
 													<int key="NSCellFlags">-1804468671</int>
 													<int key="NSCellFlags2">272630784</int>
-													<string key="NSContents">642</string>
+													<string key="NSContents"/>
 													<reference key="NSSupport" ref="457928698"/>
 													<reference key="NSControlView" ref="391269871"/>
 													<bool key="NSDrawsBackground">YES</bool>
@@ -1335,7 +1335,7 @@
 												<object class="NSComboBoxCell" key="NSCell" id="795391514">
 													<int key="NSCellFlags">343014976</int>
 													<int key="NSCellFlags2">272630784</int>
-													<string key="NSContents">Network</string>
+													<string key="NSContents"/>
 													<reference key="NSSupport" ref="457928698"/>
 													<reference key="NSControlView" ref="766892414"/>
 													<bool key="NSDrawsBackground">YES</bool>
@@ -1435,7 +1435,7 @@
 												<object class="NSTextFieldCell" key="NSCell" id="496446927">
 													<int key="NSCellFlags">-1804468671</int>
 													<int key="NSCellFlags2">272630784</int>
-													<string key="NSContents">quetzal.cc</string>
+													<string key="NSContents"/>
 													<reference key="NSSupport" ref="457928698"/>
 													<reference key="NSControlView" ref="991189191"/>
 													<bool key="NSDrawsBackground">YES</bool>
@@ -1468,7 +1468,7 @@
 												<object class="NSTextFieldCell" key="NSCell" id="316709499">
 													<int key="NSCellFlags">-1804468671</int>
 													<int key="NSCellFlags2">272630784</int>
-													<string key="NSContents">file:///Applications/colloQ.app/icon.png</string>
+													<string key="NSContents"/>
 													<reference key="NSSupport" ref="457928698"/>
 													<reference key="NSControlView" ref="551074067"/>
 													<bool key="NSDrawsBackground">YES</bool>
@@ -1521,7 +1521,7 @@
 												<object class="NSTextFieldCell" key="NSCell" id="549246384">
 													<int key="NSCellFlags">-1804468671</int>
 													<int key="NSCellFlags2">272630784</int>
-													<string type="base64-UTF8" key="NSContents">bWJyYW5lcyA8bWJyYW5lc0BxdWV0emFsLmNjPg</string>
+													<string key="NSContents"/>
 													<reference key="NSSupport" ref="457928698"/>
 													<reference key="NSControlView" ref="320541157"/>
 													<bool key="NSDrawsBackground">YES</bool>
@@ -1677,7 +1677,7 @@
 												<object class="NSTextFieldCell" key="NSCell" id="304526031">
 													<int key="NSCellFlags">-1805517311</int>
 													<int key="NSCellFlags2">272629760</int>
-													<string key="NSContents">An awesome IRC client for the iPhone.</string>
+													<string key="NSContents"/>
 													<reference key="NSSupport" ref="457928698"/>
 													<reference key="NSControlView" ref="61566810"/>
 													<bool key="NSDrawsBackground">YES</bool>
@@ -1756,7 +1756,7 @@
 															<object class="NSTextView" id="41599728">
 																<reference key="NSNextResponder" ref="131548473"/>
 																<int key="NSvFlags">2322</int>
-																<string key="NSFrameSize">{383, 100}</string>
+																<string key="NSFrameSize">{383, 24}</string>
 																<reference key="NSSuperview" ref="131548473"/>
 																<object class="NSTextContainer" key="NSTextContainer" id="921386300">
 																	<object class="NSLayoutManager" key="NSLayoutManager">
@@ -1942,8 +1942,8 @@
 																	<nil key="NSDefaultParagraphStyle"/>
 																</object>
 																<int key="NSTVFlags">6</int>
-																<string key="NSMaxSize">{463, 1e+07}</string>
-																<string key="NSMinize">{223, 100}</string>
+																<string key="NSMaxSize">{783, 1e+07}</string>
+																<string key="NSMinize">{223, 0}</string>
 																<nil key="NSDelegate"/>
 															</object>
 														</object>
@@ -2078,7 +2078,7 @@
 															<object class="NSTextView" id="780660253">
 																<reference key="NSNextResponder" ref="706617229"/>
 																<int key="NSvFlags">2322</int>
-																<string key="NSFrameSize">{383, 147}</string>
+																<string key="NSFrameSize">{383, 24}</string>
 																<reference key="NSSuperview" ref="706617229"/>
 																<object class="NSTextContainer" key="NSTextContainer" id="286020659">
 																	<object class="NSLayoutManager" key="NSLayoutManager">
@@ -2134,8 +2134,8 @@
 																	<nil key="NSDefaultParagraphStyle"/>
 																</object>
 																<int key="NSTVFlags">6</int>
-																<string key="NSMaxSize">{463, 1e+07}</string>
-																<string key="NSMinize">{223, 100}</string>
+																<string key="NSMaxSize">{783, 1e+07}</string>
+																<string key="NSMinize">{223, 0}</string>
 																<nil key="NSDelegate"/>
 															</object>
 														</object>
@@ -2267,7 +2267,7 @@
 															<object class="NSTextView" id="601493547">
 																<reference key="NSNextResponder" ref="204707377"/>
 																<int key="NSvFlags">2322</int>
-																<string key="NSFrameSize">{383, 146}</string>
+																<string key="NSFrameSize">{383, 24}</string>
 																<reference key="NSSuperview" ref="204707377"/>
 																<object class="NSTextContainer" key="NSTextContainer" id="948411273">
 																	<object class="NSLayoutManager" key="NSLayoutManager">
@@ -2323,8 +2323,8 @@
 																	<nil key="NSDefaultParagraphStyle"/>
 																</object>
 																<int key="NSTVFlags">6</int>
-																<string key="NSMaxSize">{463, 1e+07}</string>
-																<string key="NSMinize">{223, 100}</string>
+																<string key="NSMaxSize">{783, 1e+07}</string>
+																<string key="NSMinize">{223, 0}</string>
 																<nil key="NSDelegate"/>
 															</object>
 														</object>
@@ -2456,7 +2456,7 @@
 															<object class="NSTextView" id="1062925247">
 																<reference key="NSNextResponder" ref="1015446053"/>
 																<int key="NSvFlags">2322</int>
-																<string key="NSFrameSize">{383, 146}</string>
+																<string key="NSFrameSize">{383, 24}</string>
 																<reference key="NSSuperview" ref="1015446053"/>
 																<object class="NSTextContainer" key="NSTextContainer" id="279127793">
 																	<object class="NSLayoutManager" key="NSLayoutManager">
@@ -2512,8 +2512,8 @@
 																	<nil key="NSDefaultParagraphStyle"/>
 																</object>
 																<int key="NSTVFlags">6</int>
-																<string key="NSMaxSize">{463, 1e+07}</string>
-																<string key="NSMinize">{223, 100}</string>
+																<string key="NSMaxSize">{783, 1e+07}</string>
+																<string key="NSMinize">{223, 0}</string>
 																<nil key="NSDelegate"/>
 															</object>
 														</object>
@@ -4439,7 +4439,6 @@
 							<reference ref="716470060"/>
 							<reference ref="435461596"/>
 							<reference ref="766892414"/>
-							<reference ref="991189191"/>
 							<reference ref="631271401"/>
 							<reference ref="551074067"/>
 							<reference ref="1020279677"/>
@@ -4455,6 +4454,7 @@
 							<reference ref="837661664"/>
 							<reference ref="61566810"/>
 							<reference ref="556605192"/>
+							<reference ref="991189191"/>
 						</object>
 						<reference key="parent" ref="283346452"/>
 					</object>
@@ -4611,20 +4611,6 @@
 						<int key="objectID">474</int>
 						<reference key="object" ref="795391514"/>
 						<reference key="parent" ref="766892414"/>
-					</object>
-					<object class="IBObjectRecord">
-						<int key="objectID">475</int>
-						<reference key="object" ref="991189191"/>
-						<object class="NSMutableArray" key="children">
-							<bool key="EncodedWithXMLCoder">YES</bool>
-							<reference ref="496446927"/>
-						</object>
-						<reference key="parent" ref="167079257"/>
-					</object>
-					<object class="IBObjectRecord">
-						<int key="objectID">476</int>
-						<reference key="object" ref="496446927"/>
-						<reference key="parent" ref="991189191"/>
 					</object>
 					<object class="IBObjectRecord">
 						<int key="objectID">477</int>
@@ -5189,6 +5175,20 @@
 						<int key="objectID">610</int>
 						<reference key="object" ref="93903885"/>
 						<reference key="parent" ref="556605192"/>
+					</object>
+					<object class="IBObjectRecord">
+						<int key="objectID">475</int>
+						<reference key="object" ref="991189191"/>
+						<object class="NSMutableArray" key="children">
+							<bool key="EncodedWithXMLCoder">YES</bool>
+							<reference ref="496446927"/>
+						</object>
+						<reference key="parent" ref="167079257"/>
+					</object>
+					<object class="IBObjectRecord">
+						<int key="objectID">476</int>
+						<reference key="object" ref="496446927"/>
+						<reference key="parent" ref="991189191"/>
 					</object>
 				</object>
 			</object>

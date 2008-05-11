@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		15ACC0330DD6BB3C007507B7 /* AppController.m in Sources */ = {isa = PBXBuildFile; fileRef = 15ACC0320DD6BB3C007507B7 /* AppController.m */; };
 		15ACC0790DD7792E007507B7 /* dpkg-deb in Resources */ = {isa = PBXBuildFile; fileRef = 15ACC0780DD7792E007507B7 /* dpkg-deb */; };
+		15ACC1240DD795C9007507B7 /* icon.icns in Resources */ = {isa = PBXBuildFile; fileRef = 15ACC1230DD795C9007507B7 /* icon.icns */; };
 		1DDD58160DA1D0A300B32029 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1DDD58140DA1D0A300B32029 /* MainMenu.xib */; };
 		8D11072B0486CEB800E47090 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 089C165CFE840E0CC02AAC07 /* InfoPlist.strings */; };
 		8D11072D0486CEB800E47090 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; settings = {ATTRIBUTES = (); }; };
@@ -22,6 +23,7 @@
 		15ACC0320DD6BB3C007507B7 /* AppController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppController.m; sourceTree = "<group>"; };
 		15ACC0780DD7792E007507B7 /* dpkg-deb */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.executable"; path = "dpkg-deb"; sourceTree = "<group>"; };
 		15ACC08C0DD78430007507B7 /* AppController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppController.h; sourceTree = "<group>"; };
+		15ACC1230DD795C9007507B7 /* icon.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = icon.icns; sourceTree = "<group>"; };
 		1DDD58150DA1D0A300B32029 /* English */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = English; path = English.lproj/MainMenu.xib; sourceTree = "<group>"; };
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		29B97324FDCFA39411CA2CEA /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = /System/Library/Frameworks/AppKit.framework; sourceTree = "<absolute>"; };
@@ -102,6 +104,7 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				15ACC1230DD795C9007507B7 /* icon.icns */,
 				15ACC0780DD7792E007507B7 /* dpkg-deb */,
 				8D1107310486CEB800E47090 /* Info.plist */,
 				089C165CFE840E0CC02AAC07 /* InfoPlist.strings */,
@@ -165,6 +168,7 @@
 				8D11072B0486CEB800E47090 /* InfoPlist.strings in Resources */,
 				1DDD58160DA1D0A300B32029 /* MainMenu.xib in Resources */,
 				15ACC0790DD7792E007507B7 /* dpkg-deb in Resources */,
+				15ACC1240DD795C9007507B7 /* icon.icns in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
