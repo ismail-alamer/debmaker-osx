@@ -37,8 +37,8 @@
 	};
 	15ACC0320DD6BB3C007507B7 /* AppController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1944, 891}}";
-			sepNavSelRange = "{4993, 0}";
+			sepNavIntBoundsRect = "{{0, 0}, {1944, 868}}";
+			sepNavSelRange = "{1710, 0}";
 			sepNavVisRange = "{0, 5624}";
 			sepNavWindowFrame = "{{15, 4}, {1287, 1024}}";
 		};
@@ -944,6 +944,16 @@
 		vrLen = 5624;
 		vrLoc = 0;
 	};
+	15ACC1420DD7AB41007507B7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 15ACC0320DD6BB3C007507B7 /* AppController.m */;
+		name = "AppController.m: 32";
+		rLen = 0;
+		rLoc = 1710;
+		rType = 0;
+		vrLen = 5624;
+		vrLoc = 0;
+	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
 		activeArchitecture = i386;
 		activeBuildConfigurationName = Release;
@@ -1077,6 +1087,7 @@
 			15ACC12B0DD795E9007507B7 /* PBXBookmark */ = 15ACC12B0DD795E9007507B7 /* PBXBookmark */;
 			15ACC12C0DD795E9007507B7 /* PBXTextBookmark */ = 15ACC12C0DD795E9007507B7 /* PBXTextBookmark */;
 			15ACC12D0DD795E9007507B7 /* PBXTextBookmark */ = 15ACC12D0DD795E9007507B7 /* PBXTextBookmark */;
+			15ACC1420DD7AB41007507B7 /* PBXTextBookmark */ = 15ACC1420DD7AB41007507B7 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 15ACC02D0DD6B3D9007507B7 /* Source Control */;
 		userBuildSettings = {
